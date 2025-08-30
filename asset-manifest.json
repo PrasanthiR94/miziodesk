@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4fbedb6.css",
+    "main.js": "/static/js/main.97171634.js",
+    "static/js/453.a7475c7a.chunk.js": "/static/js/453.a7475c7a.chunk.js",
+    "static/media/miz-logo.png": "/static/media/miz-logo.cad8cd2e788035d2f4d7.png",
+    "static/media/miz-logo-2.png": "/static/media/miz-logo-2.e667d85acc679d0065ef.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.b4fbedb6.css.map": "/static/css/main.b4fbedb6.css.map",
+    "main.97171634.js.map": "/static/js/main.97171634.js.map",
+    "453.a7475c7a.chunk.js.map": "/static/js/453.a7475c7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4fbedb6.css",
+    "static/js/main.97171634.js"
+  ]
+}
