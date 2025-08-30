@@ -1,0 +1,31 @@
+.tickets_page_cover h2 {
+    text-align: left;
+}
+
+
+.create_ticket_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.create_ticket_box {
+    padding: 10px;
+    border: 2px solid #8a14a2;
+    border-radius: 5px;
+    text-align: left;
+    width: 45%;
+    padding: 26px 20px;
+}
+
+.new_ticket {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.create_ticket_box .MuiFormControl-root {
+    margin-bottom: 10px;
+}
+
+div#demo-simple-select {
+    font-size: 13px;
+}

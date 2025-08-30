@@ -1,0 +1,10 @@
+.footer_cover {
+    background: #302732;
+    color: #fff;
+    font-size: 10px;
+    padding: 1px 0;
+}
+
+.footer_cover p {
+    margin: 0;
+}

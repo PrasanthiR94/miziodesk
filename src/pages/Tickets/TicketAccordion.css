@@ -1,0 +1,8 @@
+span.tkt_status {
+    background: green;
+    color: #fff;
+    padding: 2px 8px;
+    font-size: 14px;
+    position: absolute;
+    right: 72px;
+}

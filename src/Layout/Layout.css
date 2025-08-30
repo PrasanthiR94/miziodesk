@@ -1,0 +1,18 @@
+
+.Layout_cover {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.sidebar_cover {
+    width: 18%;
+    background: #8a14a2;
+}
+
+.center_content {
+    width: 80%;
+    background: #ffffff;
+    margin-left: 2%;
+}

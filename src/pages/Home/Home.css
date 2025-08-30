@@ -1,0 +1,47 @@
+.homepage_cover h2 {
+    text-align: left;
+}
+
+.home_content_tiles {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.home_tiles_wrap {
+    width: 20%;
+    margin-right: 15px;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    transition: .5s;
+    cursor: pointer;
+}
+.home_tiles_wrap a {
+    text-decoration: none;
+    color: #fff;
+}
+.home_tile p {
+    font-size: 13px;
+}
+.home_tile p {
+    font-size: 13px;
+}
+
+.home_tiles_wrap:hover {
+    transition: .5s; 
+}
+ 
+
+.home_tile:hover {
+    background: #ffffff45;
+}
+
+.home_tile {
+    height: 100%;
+    transition: .5s;
+}
+
+.home_tile svg {
+    font-size: 40px;
+}

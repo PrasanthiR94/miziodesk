@@ -1,0 +1,33 @@
+.sidebar_wrap ul li {
+    list-style: none;
+    padding-left: 30px;
+}
+
+.sidebar_wrap ul {
+    padding: 0;
+}
+
+.sidebar_wrap ul li a {
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    padding: 8px;
+    transition: .5s;
+}
+
+.sidebar_wrap ul li a svg {
+    margin-right: 15px;
+}
+
+.sidebar_wrap ul li a:hover {
+    transition: .5s;
+    background: #ffffff;
+    color: #8a14a2;
+}
+.sidebar_wrap ul li a.active {
+    transition: .5s;
+    background: #ffffff;
+    color: #8a14a2;
+}

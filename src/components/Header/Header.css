@@ -1,0 +1,28 @@
+.header_cover {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #8a14a2;
+    color: #fff;
+    padding: 6px;
+}
+
+.header-left img {
+    width: 100px;
+    filter: grayscale(100%) brightness(1000%) contrast(1);
+}
+
+.header-right {
+    display: flex;
+}
+
+.user-account {
+    cursor: pointer; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.username_user_acc {
+    padding: 0 10px;
+}
